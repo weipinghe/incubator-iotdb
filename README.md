@@ -19,6 +19,12 @@
 
 -->
 
+# Project Committers
+Name	Organization
+Jianmin Wang	Tsinghua University
+Xiangdong Huang	Tsinghua University
+Jun Yuan	Tsinghua University
+
 # IoTDB
 [![Build Status](https://www.travis-ci.org/apache/incubator-iotdb.svg?branch=master)](https://www.travis-ci.org/apache/incubator-iotdb)
 [![codecov](https://codecov.io/gh/thulab/incubator-iotdb/branch/master/graph/badge.svg)](https://codecov.io/gh/thulab/incubator-iotdb)
